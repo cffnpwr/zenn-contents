@@ -1,0 +1,10 @@
+{
+  "name": "zenn-contents",
+  "version": "1.0.0",
+  "description": "",
+  "author": "CaffeinePower <cffnpwr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.141"
+  }
+}
